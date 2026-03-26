@@ -1,8 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
-import os
 import yt_dlp
-
+import os
 
 
 def start_download(url_entry, format_var, status_label, root):
